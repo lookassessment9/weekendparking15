@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reiterin.rooky.codes/weekendparking15_sitemap.xml
